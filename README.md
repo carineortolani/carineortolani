@@ -19,9 +19,9 @@ Meu nome é **Carine**, sou desenvolvedora Front-End na <a target="_blank" href=
 
 ### :chart_with_upwards_trend: Estatísticas
 
-**Github**
+**GitHub**
 
 <div>
-  <img height="165em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=0000&text_color=fff" />
-  <img height="165em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=0000&text_color=fff&layout=compact" />
+  <img height="165em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=04870A&text_color=fff" />
+  <img height="165em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=04870A&text_color=fff&layout=compact" />
 </div>
