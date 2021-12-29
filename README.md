@@ -24,4 +24,7 @@ Meu nome é Carine, sou desenvolvedora Front-End na <a target="_blank" href="htt
 ### 🧰 Ferramentas
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=for-the-badge&logo=sublimetext&logoColor=555&textColor=555)
+![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=for-the-badge&logo=sublimetext&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
