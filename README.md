@@ -3,7 +3,7 @@
 <br>
 
 Meu nome é Carine, sou desenvolvedora Front-End na <a target="_blank" href="https://www.liveonsolutions.com">LiveOn Solutions</a>.
-<img src="https://github.com/carineortolani/Carine/blob/main/assets/codegirl.svg" width="180px" align="right">
+<img src="https://github.com/carineortolani/Carine/blob/main/assets/codegirl.svg" width="188px" align="right">
 
 ### 📈 Estatísticas do GitHub
 
@@ -23,3 +23,5 @@ Meu nome é Carine, sou desenvolvedora Front-End na <a target="_blank" href="htt
 
 ### 🧰 Ferramentas
 
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=for-the-badge&logo=sublimetext&logoColor=555&textColor=555)
