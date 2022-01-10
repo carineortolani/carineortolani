@@ -8,8 +8,8 @@ Meu nome é Carine, atualmente sou desenvolvedora Front-End na <a target="_blank
 ### 📈 Estatísticas do GitHub
 
 <div>
-  <img height="145em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&icon_color=ff9c57&text_color=fff" />
-  <img height="145em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&text_color=fff&icon_color=ff9c57&layout=compact" />
+  <img height="135em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&icon_color=ff9c57&text_color=fff" />
+  <img height="135em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&text_color=fff&icon_color=ff9c57&layout=compact" />
 </div>
 
 ### 💻 Tecnologias
