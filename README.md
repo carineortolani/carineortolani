@@ -2,7 +2,7 @@
 
 <br>
 
-Meu nome é Carine, sou desenvolvedora Front-End na <a target="_blank" href="https://www.liveonsolutions.com">LiveOn Solutions</a>.
+Meu nome é Carine, atualemte sou desenvolvedora Front-End na <a target="_blank" href="https://www.liveonsolutions.com">LiveOn Solutions</a> e estou cursando Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a>.
 <img src="https://github.com/carineortolani/Carine/blob/main/assets/codegirl.svg" width="188px" align="right">
 
 ### 📈 Estatísticas do GitHub
