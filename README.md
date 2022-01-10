@@ -28,3 +28,15 @@ Meu nome é Carine, atualemte sou desenvolvedora Front-End na <a target="_blank"
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+
+### 💌 Canais para contato
+
+<div>
+  <a target="_blank" href="https://mail.google.com/mail/u/?authuser=carineorto@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=ff7000" /></a>
+
+  <a target="_blank" href="https://www.linkedin.com/in/carine-ortolani-9615ab148/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=ff7000&link=https://www.linkedin.com/in/carine-ortolani-9615ab148/" /></a>
+
+  <a target="_blank" href="https://www.instagram.com/carineortolani/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=ff7000&link=https://www.instagram.com/carineortolani/" /></a>
