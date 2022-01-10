@@ -40,3 +40,4 @@ Meu nome é Carine, atualemte sou desenvolvedora Front-End na <a target="_blank"
 
   <a target="_blank" href="https://www.instagram.com/carineortolani/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=ff7000&link=https://www.instagram.com/carineortolani/" /></a>
+</div>
