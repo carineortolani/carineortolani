@@ -2,7 +2,7 @@
 
 <br>
 
-Meu nome é Carine, atualmente sou desenvolvedora Front-End no <a target="_blank" href="https://modal.services/>Banco Modal</a> <br> e estou cursando Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a>.
+Meu nome é Carine, atualmente sou desenvolvedora Front-End no <a target="_blank" href="https://modal.services"/>Banco Modal</a> <br> e estou cursando Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a>.
 <img align="right" marginTop="40px" marginRight="35px" width="188px" alt="girl programming" src="https://github.com/carineortolani/Carine/blob/main/assets/codegirl.svg" />
   
 ### 📈 Estatísticas do GitHub
