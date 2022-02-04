@@ -3,15 +3,13 @@
 <br>
 
 Meu nome é Carine, atualmente sou desenvolvedora Front-End no <a target="_blank" href="https://modal.services"/>Banco Modal</a> <br> e estou cursando Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a>.
-
-<img align="right" width="200px" alt="girl programming" src="https://github.com/carineortolani/Carine/blob/main/assets/codegirl.svg" />
   
 ### 📈 Estatísticas do GitHub
 
-<div>
-  <img height="155em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&icon_color=ff9c57&text_color=fff" />
-  <img height="158em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&text_color=fff&icon_color=ff9c57&layout=compact" />
-</div>
+<img align="right" width="255px" alt="girl programming" src="https://github.com/carineortolani/Carine/blob/main/assets/codegirl.svg" />
+
+<img height="155em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&icon_color=ff9c57&text_color=fff" />
+<img height="158em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&text_color=fff&icon_color=ff9c57&layout=compact" />
 
 ### 💻 Tecnologias
 
