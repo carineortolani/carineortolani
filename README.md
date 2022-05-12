@@ -15,8 +15,8 @@
 ### 📈 Estatísticas do GitHub
 
 <div>
-  <img height="175em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&icon_color=ff9c57&text_color=fff" />
-  <img height="175em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&text_color=fff&icon_color=ff9c57&layout=compact" />
+  <img height="160em" alt="Carine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&icon_color=ff9c57&text_color=fff" />
+  <img height="160em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=carineortolani&show_icons=true&theme=dark&bg_color=161b22&title_color=ff7000&text_color=fff&icon_color=ff9c57&layout=compact" />
 </div>
   
 ### 💻 Tecnologias
