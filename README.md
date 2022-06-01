@@ -1,4 +1,4 @@
-## <img src="https://github.com/carineortolani/Carine/blob/main/assets/wave.gif?raw=true" width="25px"> Olá, Techs!
+## <img src="https://github.com/carineortolani/Carine/blob/main/assets/wave.gif?raw=true"> Olá, Techs!
 
 <br>
 
