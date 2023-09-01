@@ -10,7 +10,7 @@
 
 <div align="center">
   Meu nome é Carine, atualmente sou desenvolvedora Front-End 
-  <br> e estou cursando     Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a>.
+  <br> e sou formada em Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a>.
 </div>
 
 ### 📈 Estatísticas do GitHub
