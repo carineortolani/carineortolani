@@ -9,8 +9,9 @@
 <br>
 
 <div align="center">
-  Meu nome é Carine, atualmente sou desenvolvedora Front-End 
-  <br> e sou formada em Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a>.
+  Meu nome é Carine, atualmente sou desenvolvedora Front-End, 
+  <br>sou formada em Gestão da Tecnologia da Informação na <a target="_blank" href="http://fatecjahu.edu.br/">Fatec Jahu</a> e <br>
+  graduanda em Engenharia da Computação na <a target="_blank" href="https://univesp.br/cursos/engenharia-de-computacao">UNIVESP</a>.
 </div>
 
 ### 📈 Estatísticas do GitHub
@@ -28,6 +29,11 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=333333)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-212121?style=for-the-badge&logo=StyledComponents&logoColor=db7093)
+![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=ffffff)
+
+
 
 ### 🧰 Ferramentas
 
