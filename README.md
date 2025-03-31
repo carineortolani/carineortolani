@@ -32,6 +32,7 @@
 ![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-c50836?style=for-the-badge&logo=angular&logoColor=ffffff)
 
 
 
